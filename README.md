@@ -12,3 +12,18 @@ Repositório para juntar informações sobre materiais de estudo em análise de 
 
 # Twitter
 - [Data Science List](https://twitter.com/kenjiyamamoto/lists/data-science)
+
+# Guia de Estudo
+<!-- toc -->
+  * [Recomendações](#recomendacoes)
+      * [Iniciante](#iniciante)
+
+<h2 id="recomendacoes">Recomendações</h2>
+
+<h3 id="iniciante">Iniciante</h3>
+
+  - Python (lib Pandas)
+  - R Language
+  - SQL
+  - Jupyter Notebook
+  - [Estatistica descritiva](https://agro.ufg.br/up/396/o/Estat_descr.pdf) √
