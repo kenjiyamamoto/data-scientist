@@ -1,6 +1,11 @@
 # Data Scientist
 Repositório para juntar informações sobre materiais de estudo em análise de dados e áreas afins. Irá ajudar a catalogar meu ciclo de aprendizagem.
 
+# Guia de Estudo
+<!-- toc -->
+  * [Recomendações](#recomendacoes)
+      * [Iniciante](#iniciante)
+
 # Treinamento
 - [Data Bootcamp](http://databootcamp.com.br/)
 - [Python para Data Science e Machine Learning](https://www.udemy.com/python-para-data-science-e-machine-learning/learn/v4/content)
@@ -12,11 +17,6 @@ Repositório para juntar informações sobre materiais de estudo em análise de 
 
 # Twitter
 - [Data Science List](https://twitter.com/kenjiyamamoto/lists/data-science)
-
-# Guia de Estudo
-<!-- toc -->
-  * [Recomendações](#recomendacoes)
-      * [Iniciante](#iniciante)
 
 <h2 id="recomendacoes">Recomendações</h2>
 
