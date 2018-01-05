@@ -26,4 +26,4 @@ Repositório para juntar informações sobre materiais de estudo em análise de 
   - R Language
   - SQL
   - Jupyter Notebook
-  - [Estatistica descritiva](https://agro.ufg.br/up/396/o/Estat_descr.pdf) √
+  - [Estatistica descritiva](https://agro.ufg.br/up/396/o/Estat_descr.pdf) √
