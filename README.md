@@ -33,4 +33,4 @@ Repositório para juntar informações sobre materiais de estudo em análise de 
   
   #### Machine Learning
   
-  - [Which machine learning algorithm should I use?] (https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
+  - [Which machine learning algorithm should I use?](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
