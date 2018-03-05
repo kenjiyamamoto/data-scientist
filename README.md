@@ -11,6 +11,8 @@ Repositório para juntar informações sobre materiais de estudo em análise de 
 - [Python para Data Science e Machine Learning](https://www.udemy.com/python-para-data-science-e-machine-learning/learn/v4/content)
 - [WiP] **[Machine Learning com Andrew NG](https://www.coursera.org/learn/machine-learning/home/welcome)**
   - [Lecture 1](/coursera/machine_learning/Lecture1.pdf)
+- [
+Introduction to Machine Learning - Google](https://developers.google.com/machine-learning/crash-course/ml-intro?authuser=1)
 
 # Podcast
 - [Pizza de dados](http://podcast.datascience.pizza/)
