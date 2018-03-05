@@ -27,3 +27,10 @@ Repositório para juntar informações sobre materiais de estudo em análise de 
   - SQL
   - Jupyter Notebook
   - [Estatistica descritiva](https://agro.ufg.br/up/396/o/Estat_descr.pdf) √
+  
+  
+  ### Referências
+  
+  #### Machine Learning
+  
+  - Which machine learning algorithm should I use? (https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
