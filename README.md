@@ -29,7 +29,7 @@ Repositório para juntar informações sobre materiais de estudo em análise de 
   - [Estatistica descritiva](https://agro.ufg.br/up/396/o/Estat_descr.pdf) √
   
   
-  ### Referências
+<h2 id="iniciante">Referências</h2>
   
   #### Machine Learning
   
